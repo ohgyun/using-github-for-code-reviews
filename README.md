@@ -20,7 +20,8 @@
 >1. 리뷰어(Reviewer)는 먼저 원본 리파지터리를 준비합니다.
 >2. 리뷰받는 사람(reviewee)은 원본 리파지터리를 `Fork`합니다.
 >3. 리뷰받는 사람은 작업을 마친 후, 커밋한 코드를 `Pull Requests`합니다.
->4. 리뷰어는 [Pull Requets 메뉴](https://github.com/ohgyun/using-github-for-code-reviews/pulls)에서 요청온 코드를 리뷰해줍니다.
+>4. 리뷰어는 [Pull Requets 메뉴](https://github.com/ohgyun/using-github-for-code-reviews/pulls)에서 요청온 코드를 리뷰해줍니다.  
+> 예) [Pull Requests를 사용한 리뷰](https://github.com/ohgyun/using-github-for-code-reviews/pull/1/files)
 >
 > (Tip)  
 > 팀 내 공동 과제이거나 교육을 위한 과제처럼 여러 사람을 위한 리뷰라면,  
@@ -33,8 +34,9 @@
 [Commits 메뉴](https://github.com/ohgyun/using-github-for-code-reviews/commits/master)의 커밋 히스토리에 댓글을 다는 방식으로 리뷰합니다.
 
 >1. 리뷰받는 사람이 직접 자신의 리파지터리를 생성하고 작업합니다.
->2. 리뷰받을 코드를 커밋하고, 리뷰어에게 리뷰받을 [커밋 히스토리 링크](https://github.com/ohgyun/using-github-for-code-reviews/commit/8a85b15805237214aea83a1131f0548b3b69a2d8)를 전달합니다.
+>2. 리뷰받을 코드를 커밋하고, 리뷰어에게 리뷰받을 커밋 히스토리의 링크를 전달합니다.
 >3. 리뷰어는 Commits 히스토리 페이지에서 코드를 리뷰해줍니다.
+> 예) [Commits 히스토리 페이지에 남긴 리뷰](https://github.com/ohgyun/using-github-for-code-reviews/commit/8a85b15805237214aea83a1131f0548b3b69a2d8)
 
 > (Tip)  
 > Commits 메뉴에서는 각 커밋에서 변경한 코드만 볼 수 있습니다.  
