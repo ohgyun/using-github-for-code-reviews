@@ -8,5 +8,10 @@ function findFruitsStartWith(char) {
   }
 }
 
+function findFruitsEndWith(char) {
+  // 여기를 구현합니다.
+}
+
 console.log(findFruitsStartWith('c'));
+console.log(findFruitsEndWith('e'));
 
