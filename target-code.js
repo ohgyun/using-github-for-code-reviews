@@ -9,7 +9,7 @@ function findFruitsStartWith(char) {
 }
 
 function findFruitsEndWith(char) {
-  // 여기를 구현합니다.
+  return 'molla~~';
 }
 
 console.log(findFruitsStartWith('c'));
