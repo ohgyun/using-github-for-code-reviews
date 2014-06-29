@@ -9,7 +9,15 @@ function findFruitsStartWith(char) {
 }
 
 function findFruitsEndWith(char) {
-  // 여기를 구현합니다.
+  var len = fruits.length,
+    i = 0,
+    regex = new RegExp(char + '$');
+
+  for (; i < len; i++) {
+    if (regex.test(fruits[i])) {
+      return fruits[i];
+    }
+  }
 }
 
 console.log(findFruitsStartWith('c'));
